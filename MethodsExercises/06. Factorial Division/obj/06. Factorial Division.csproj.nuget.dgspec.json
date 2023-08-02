@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alex\\source\\repos\\MethodsE\\06. Factorial Division\\06. Factorial Division.csproj": {}
+    "c:\\Users\\Alex\\Documents\\GitHub\\School_labs_and_exercises\\MethodsExercises\\06. Factorial Division\\06. Factorial Division.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alex\\source\\repos\\MethodsE\\06. Factorial Division\\06. Factorial Division.csproj": {
+    "c:\\Users\\Alex\\Documents\\GitHub\\School_labs_and_exercises\\MethodsExercises\\06. Factorial Division\\06. Factorial Division.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alex\\source\\repos\\MethodsE\\06. Factorial Division\\06. Factorial Division.csproj",
+        "projectUniqueName": "c:\\Users\\Alex\\Documents\\GitHub\\School_labs_and_exercises\\MethodsExercises\\06. Factorial Division\\06. Factorial Division.csproj",
         "projectName": "06. Factorial Division",
-        "projectPath": "c:\\Users\\Alex\\source\\repos\\MethodsE\\06. Factorial Division\\06. Factorial Division.csproj",
+        "projectPath": "c:\\Users\\Alex\\Documents\\GitHub\\School_labs_and_exercises\\MethodsExercises\\06. Factorial Division\\06. Factorial Division.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alex\\source\\repos\\MethodsE\\06. Factorial Division\\obj\\",
+        "outputPath": "c:\\Users\\Alex\\Documents\\GitHub\\School_labs_and_exercises\\MethodsExercises\\06. Factorial Division\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
