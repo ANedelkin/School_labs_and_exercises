@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\ListsE\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.exe
+C:\Users\Alex\source\repos\ListsE\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.deps.json
+C:\Users\Alex\source\repos\ListsE\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.runtimeconfig.json
+C:\Users\Alex\source\repos\ListsE\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ListsE\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.dll
+C:\Users\Alex\source\repos\ListsE\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.pdb
+C:\Users\Alex\source\repos\ListsE\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ListsE\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ListsE\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ListsE\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ListsE\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ListsE\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.dll
+C:\Users\Alex\source\repos\ListsE\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.pdb
+C:\Users\Alex\source\repos\ListsE\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.genruntimeconfig.cache

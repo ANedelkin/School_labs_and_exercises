@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\bin\Debug\netcoreapp3.1\04. Bomb Numbers.exe
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\bin\Debug\netcoreapp3.1\04. Bomb Numbers.deps.json
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\bin\Debug\netcoreapp3.1\04. Bomb Numbers.runtimeconfig.json
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\bin\Debug\netcoreapp3.1\04. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\bin\Debug\netcoreapp3.1\04. Bomb Numbers.dll
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\bin\Debug\netcoreapp3.1\04. Bomb Numbers.pdb
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\obj\Debug\netcoreapp3.1\04. Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\obj\Debug\netcoreapp3.1\04. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\obj\Debug\netcoreapp3.1\04. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\obj\Debug\netcoreapp3.1\04. Bomb Numbers.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\obj\Debug\netcoreapp3.1\04. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\obj\Debug\netcoreapp3.1\04. Bomb Numbers.dll
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\obj\Debug\netcoreapp3.1\04. Bomb Numbers.pdb
+C:\Users\Alex\source\repos\ListsE\04. Bomb Numbers\obj\Debug\netcoreapp3.1\04. Bomb Numbers.genruntimeconfig.cache
