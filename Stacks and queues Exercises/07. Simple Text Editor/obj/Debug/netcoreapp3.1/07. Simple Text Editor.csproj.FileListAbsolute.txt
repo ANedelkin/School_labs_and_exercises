@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\bin\Debug\netcoreapp3.1\07. Simple Text Editor.exe
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\bin\Debug\netcoreapp3.1\07. Simple Text Editor.deps.json
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\bin\Debug\netcoreapp3.1\07. Simple Text Editor.runtimeconfig.json
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\bin\Debug\netcoreapp3.1\07. Simple Text Editor.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\bin\Debug\netcoreapp3.1\07. Simple Text Editor.dll
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\bin\Debug\netcoreapp3.1\07. Simple Text Editor.pdb
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\obj\Debug\netcoreapp3.1\07. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\obj\Debug\netcoreapp3.1\07. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\obj\Debug\netcoreapp3.1\07. Simple Text Editor.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\obj\Debug\netcoreapp3.1\07. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\obj\Debug\netcoreapp3.1\07. Simple Text Editor.dll
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\obj\Debug\netcoreapp3.1\07. Simple Text Editor.pdb
+C:\Users\Alex\source\repos\Stacks and queues E\07. Simple Text Editor\obj\Debug\netcoreapp3.1\07. Simple Text Editor.genruntimeconfig.cache

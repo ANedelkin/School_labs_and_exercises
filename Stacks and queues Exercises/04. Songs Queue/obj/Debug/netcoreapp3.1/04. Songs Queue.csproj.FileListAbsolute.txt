@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\bin\Debug\netcoreapp3.1\04. Songs Queue.exe
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\bin\Debug\netcoreapp3.1\04. Songs Queue.deps.json
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\bin\Debug\netcoreapp3.1\04. Songs Queue.runtimeconfig.json
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\bin\Debug\netcoreapp3.1\04. Songs Queue.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\bin\Debug\netcoreapp3.1\04. Songs Queue.dll
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\bin\Debug\netcoreapp3.1\04. Songs Queue.pdb
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\obj\Debug\netcoreapp3.1\04. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\obj\Debug\netcoreapp3.1\04. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\obj\Debug\netcoreapp3.1\04. Songs Queue.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\obj\Debug\netcoreapp3.1\04. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\obj\Debug\netcoreapp3.1\04. Songs Queue.dll
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\obj\Debug\netcoreapp3.1\04. Songs Queue.pdb
+C:\Users\Alex\source\repos\Stacks and queues E\04. Songs Queue\obj\Debug\netcoreapp3.1\04. Songs Queue.genruntimeconfig.cache

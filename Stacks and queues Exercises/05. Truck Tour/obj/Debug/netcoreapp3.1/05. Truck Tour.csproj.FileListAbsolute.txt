@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\bin\Debug\netcoreapp3.1\05. Truck Tour.exe
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\bin\Debug\netcoreapp3.1\05. Truck Tour.deps.json
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\bin\Debug\netcoreapp3.1\05. Truck Tour.runtimeconfig.json
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\bin\Debug\netcoreapp3.1\05. Truck Tour.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\bin\Debug\netcoreapp3.1\05. Truck Tour.dll
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\bin\Debug\netcoreapp3.1\05. Truck Tour.pdb
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\obj\Debug\netcoreapp3.1\05. Truck Tour.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\obj\Debug\netcoreapp3.1\05. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\obj\Debug\netcoreapp3.1\05. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\obj\Debug\netcoreapp3.1\05. Truck Tour.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\obj\Debug\netcoreapp3.1\05. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\obj\Debug\netcoreapp3.1\05. Truck Tour.dll
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\obj\Debug\netcoreapp3.1\05. Truck Tour.pdb
+C:\Users\Alex\source\repos\Stacks and queues E\05. Truck Tour\obj\Debug\netcoreapp3.1\05. Truck Tour.genruntimeconfig.cache

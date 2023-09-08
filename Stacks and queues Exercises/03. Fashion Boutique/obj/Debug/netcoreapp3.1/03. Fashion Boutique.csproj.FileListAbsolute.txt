@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\bin\Debug\netcoreapp3.1\03. Fashion Boutique.exe
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\bin\Debug\netcoreapp3.1\03. Fashion Boutique.deps.json
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\bin\Debug\netcoreapp3.1\03. Fashion Boutique.runtimeconfig.json
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\bin\Debug\netcoreapp3.1\03. Fashion Boutique.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\bin\Debug\netcoreapp3.1\03. Fashion Boutique.dll
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\bin\Debug\netcoreapp3.1\03. Fashion Boutique.pdb
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\obj\Debug\netcoreapp3.1\03. Fashion Boutique.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\obj\Debug\netcoreapp3.1\03. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\obj\Debug\netcoreapp3.1\03. Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\obj\Debug\netcoreapp3.1\03. Fashion Boutique.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\obj\Debug\netcoreapp3.1\03. Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\obj\Debug\netcoreapp3.1\03. Fashion Boutique.dll
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\obj\Debug\netcoreapp3.1\03. Fashion Boutique.pdb
+C:\Users\Alex\source\repos\Stacks and queues E\03. Fashion Boutique\obj\Debug\netcoreapp3.1\03. Fashion Boutique.genruntimeconfig.cache
